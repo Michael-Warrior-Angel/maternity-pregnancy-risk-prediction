@@ -61,7 +61,6 @@ print("NetworkX version:", nx.__version__)
 # file path
 input_path = "data/maternal_pregnancy_risk_dataset.csv"
 
-
 # load the dataset
 df = pd.read_csv(input_path)
 
