@@ -1,5 +1,9 @@
 # Maternal Pregnancy Risk Prediction using Semi-Supervised Learning  
 
+This project is also featured on my **Data Science Portfolio**:
+
+🔗 [Maternal Pregnancy Risk Prediction on Portfolio](https://www.datascienceportfol.io/ZeMichaelKassahun/projects/1)
+
 This project focuses on predicting **maternal pregnancy risks** using **machine learning** and **semi-supervised learning techniques**.  
 The goal is to identify high-risk pregnancies based on maternal health indicators and provide meaningful visualizations to support data-driven healthcare insights.  
 
